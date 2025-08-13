@@ -31,6 +31,7 @@ The pointer (`ptr`) doesn't hold the value **42** directly. Instead, it holds th
 ---
 <img width="799" height="324" alt="Screenshot 2025-08-13 at 10 49 46 AM" src="https://github.com/user-attachments/assets/10a9223f-2ef8-4b7f-9425-abdd3cccac5b" />
 ---
+
 ## 🧪 Code Experiments
 
 This table breaks down the purpose and logic of each C++ file in this repository.
